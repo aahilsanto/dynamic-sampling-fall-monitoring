@@ -53,7 +53,6 @@ The SisFall dataset contains inertial sensor recordings of falls and Activities 
 - Fall activities
 - Activities of Daily Living (ADL)
 
-**Dataset source:** [Add the official dataset source link]
 
 **Dataset location:** Not included in this public repository. Follow the dataset download instructions before running the notebook.
 
@@ -66,7 +65,6 @@ The SisFall dataset contains inertial sensor recordings of falls and Activities 
 | Dataset | SisFall |
 | Data Processing | NumPy, Pandas |
 | Visualization | Matplotlib |
-| Machine Learning | [Confirm actual model and framework] |
 | Version Control | Git and GitHub |
 
 ## 6. Proposed Methodology
@@ -115,18 +113,6 @@ Include the following implementation modules when available:
 
 ![alt text](image-5.png)
 
-### 8.5 Performance Comparison
-
-| Metric | Fixed Sampling | Adaptive Sampling |
-|---|---|---|
-| Accuracy | To be updated | To be updated |
-| Precision | To be updated | To be updated |
-| Recall | To be updated | To be updated |
-| F1-score | To be updated | To be updated |
-| Sample Reduction | Baseline | To be updated |
-| Energy Consumption | To be updated | To be updated |
-
-*Replace all placeholders with verified experimental results.*
 
 ## 9. Project Structure
 
@@ -171,28 +157,11 @@ Dynamic-Sampling-Fall-Monitoring/
 - Quantitative comparison with fixed-rate sampling.
 - Evaluation of potential energy-efficiency improvements.
 
-## 11. Team Details
 
-**Project Title:** Dynamic Sampling Rate Adaptation for Energy-Efficient Wearable Fall Monitoring
-
-**Team Number:** [Enter team number]
-
-**Team Members:**
-- [Member 1 – Register Number]
-- [Member 2 – Register Number]
-- [Add other members]
-
-**Project Mentor:** [Mentor name]
-
-**Department:** Computer Science and Engineering
-
-**Institution:** Saveetha Engineering College, Chennai
-
-## 12. References
+## 11. References
 
 1. SisFall dataset research paper and official dataset documentation.
 2. Research papers related to wearable fall detection.
 3. Research papers related to adaptive sampling and energy-efficient sensor systems.
 4. Documentation of the Python libraries and machine-learning framework used.
 
-[Add complete references and publication details here.]
